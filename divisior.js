@@ -8,5 +8,5 @@ const smallestDivisor = (n) =>{
   }}
   return del;
 };
-console.log(smallestDivisor(5));
+console.log(smallestDivisor(77));
 
